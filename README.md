@@ -72,7 +72,7 @@ python main.py
 
 SUB10 dirancang untuk tujuan pengujian keamanan yang sah. Pengguna bertanggung jawab penuh atas penggunaan alat ini. Pengembang tidak bertanggung jawab atas penyalahgunaan atau kerusakan yang disebabkan oleh alat ini. 
 
-**Gunakan hanya pada sistem yang Anda miliki izin eksplisit untuk diuji!**
+**Gunakan hanya pada sistem yang Anda miliki izin eksploit untuk diuji!**
 
 ## Kontribusi
 
